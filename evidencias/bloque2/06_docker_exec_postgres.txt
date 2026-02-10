@@ -1,0 +1,14 @@
+PID   USER     TIME  COMMAND
+    1 postgres  0:01 postgres
+   27 postgres  0:00 postgres: checkpointer 
+   28 postgres  0:00 postgres: background writer 
+   30 postgres  0:00 postgres: walwriter 
+   31 postgres  0:00 postgres: autovacuum launcher 
+   32 postgres  0:00 postgres: logical replication launcher 
+   34 postgres  0:00 postgres: odoo postgres 172.18.0.2(54112) idle
+   35 postgres  0:00 postgres: odoo postgres 172.18.0.2(54120) idle
+   37 postgres  0:02 postgres: odoo odoo 172.18.0.2(54136) idle
+   82 postgres  0:01 postgres: odoo odoo 172.18.0.2(36924) idle
+   83 postgres  0:00 postgres: odoo odoo 172.18.0.2(36926) idle
+  293 postgres  0:00 postgres: odoo postgres 172.18.0.2(35834) idle
+12048 root      0:00 ps aux
