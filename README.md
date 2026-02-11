@@ -115,7 +115,7 @@ Ninguno presenta consumo anómalo.
 ---
 
 #### Análisis de logs
-Los logs revisados no muestran errores críticos, únicamente mensajes informativos normales.
+La revisión de los registros no reveló errores críticos, solo mensajes informativos de rutina.
 
 ---
 
@@ -175,6 +175,7 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
 
 
 
