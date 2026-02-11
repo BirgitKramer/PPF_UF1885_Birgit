@@ -23,7 +23,7 @@ El kernel **6.8.0-94-generic** es moderno y compatible con Docker y cargas concu
 
 El sistema dispone de:
 - CPU multinúcleo sobre arquitectura aarch64.
-- Aproximadamente **5,8 GB de memoria RAM**, sin swap configurado.
+- Aproximadamente **9.8Gi de memoria RAM**, sin swap configurado.
 - Recursos suficientes para un entorno ERP-CRM pequeño/medio.
 
 **Conclusión:**  
@@ -175,5 +175,6 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
 
 
