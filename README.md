@@ -83,7 +83,7 @@ No se detectan problemas de permisos ni riesgos de seguridad.
 
 #### Servicios activos
 - Servicio Docker activo.
-- Contenedores `odoo-dev` y `postgres-dev` en ejecución.
+- Contenedores `odoo-dev-PPF` y `postgres-dev-PPF` en ejecución.
 - Puerto del CRM en escucha.
 
 **Conclusión:**  
@@ -175,6 +175,7 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
 
 
 
