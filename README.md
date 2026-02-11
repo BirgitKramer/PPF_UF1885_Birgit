@@ -32,7 +32,7 @@ El sistema cumple los requisitos técnicos mínimos y no presenta limitaciones e
 ---
 
 #### Identificación del gestor de datos y su estado
-El gestor de datos utilizado es **PostgreSQL**, ejecutándose en un contenedor Docker independiente (`postgres-dev`).  
+El gestor de datos utilizado es **PostgreSQL**, ejecutándose en un contenedor Docker independiente (`postgres-dev-PPF`).  
 El servicio se encuentra activo, estable y con consumo de recursos bajo en el momento del análisis.
 
 **Conclusión:**  
@@ -175,6 +175,7 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
 
 
 
