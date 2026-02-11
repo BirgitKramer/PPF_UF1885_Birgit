@@ -23,7 +23,7 @@ El kernel **6.8.0-94-generic** es moderno y compatible con Docker y cargas concu
 
 El sistema dispone de:
 - CPU multinúcleo sobre arquitectura aarch64.
-- Aproximadamente **5,8 GB de memoria RAM**, sin swap configurado.
+- Aproximadamente **9.8Gi de memoria RAM**, sin swap configurado.
 - Recursos suficientes para un entorno ERP-CRM pequeño/medio.
 
 **Conclusión:**  
@@ -32,7 +32,7 @@ El sistema cumple los requisitos técnicos mínimos y no presenta limitaciones e
 ---
 
 #### Identificación del gestor de datos y su estado
-El gestor de datos utilizado es **PostgreSQL**, ejecutándose en un contenedor Docker independiente (`postgres-dev`).  
+El gestor de datos utilizado es **PostgreSQL**, ejecutándose en un contenedor Docker independiente (`postgres-dev-PPF`).  
 El servicio se encuentra activo, estable y con consumo de recursos bajo en el momento del análisis.
 
 **Conclusión:**  
@@ -41,7 +41,7 @@ La base de datos está operativa y no muestra síntomas de bloqueo ni sobrecarga
 ---
 
 #### Espacio en disco, memoria y carga del sistema
-- **Disco:** ocupación aproximada del 7 %, con amplio margen disponible.
+- **Disco:** ocupación aproximada del 11 %, con amplio margen disponible.
 - **Memoria:** uso bajo, sin swap activo.
 - **Carga del sistema:** reducida y coherente con el número de procesos.
 
@@ -83,7 +83,7 @@ No se detectan problemas de permisos ni riesgos de seguridad.
 
 #### Servicios activos
 - Servicio Docker activo.
-- Contenedores `odoo-dev` y `postgres-dev` en ejecución.
+- Contenedores `odoo-dev-PPF` y `postgres-dev-PPF` en ejecución.
 - Puerto del CRM en escucha.
 
 **Conclusión:**  
@@ -175,5 +175,9 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
+
+
+
 
 
