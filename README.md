@@ -41,7 +41,7 @@ La base de datos está operativa y no muestra síntomas de bloqueo ni sobrecarga
 ---
 
 #### Espacio en disco, memoria y carga del sistema
-- **Disco:** ocupación aproximada del 7 %, con amplio margen disponible.
+- **Disco:** ocupación aproximada del 11 %, con amplio margen disponible.
 - **Memoria:** uso bajo, sin swap activo.
 - **Carga del sistema:** reducida y coherente con el número de procesos.
 
@@ -175,6 +175,7 @@ Se documentan:
 ## Conclusión final
 El análisis demuestra que la **infraestructura base es correcta y estable**.  
 La actuación del técnico ha sido **prudente, profesional y basada en evidencias**, cumpliendo los criterios exigidos en **UF1885** incluso en ausencia de una incidencia activa.
+
 
 
 
